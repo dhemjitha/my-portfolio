@@ -9,7 +9,7 @@ function Project() {
         <div className="border border-gray-300 p-4 rounded-md shadow-sm">
           <h2 className="text-xl font-semibold text-underlay-2">HirelyAI</h2>
           <h3 className="text-sm font-extralight">Industry Level Project</h3>
-          <p className="mt-2 text-gray-600">
+          <p className="mt-2">
             HirelyAI is an innovative application designed to streamline the
             hiring process using advanced AI technologies. This project
             showcases my skills in TypeScript, Tailwind, React, Node.js,
@@ -28,7 +28,7 @@ function Project() {
         <div className="border border-gray-300 p-4 rounded-md shadow-sm">
           <h2 className="text-xl font-semibold">AuraFashion</h2>
           <h3 className="text-sm font-extralight">University Level Project</h3>
-          <p className="mt-2 text-gray-700">
+          <p className="mt-2">
             AuraFashion is a modern e-commerce platform designed to provide a
             seamless shopping experience. This project showcases my skills in
             HTML, CSS, PHP and MySQL. It
